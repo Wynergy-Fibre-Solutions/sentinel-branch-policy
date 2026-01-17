@@ -1,0 +1,41 @@
+{
+  "wfsl_verification": "WFSL-LOCAL-VERIFY-v1",
+  "repo": {
+    "path": "C:\\Users\\Paul Wynn\\github\\sentinel-branch-policy",
+    "remote": "https://github.com/Wynergyy/sentinel-branch-policy.git",
+    "head": "1e32f0bb73e24cad9e7d4591854d4854208cec8f"
+  },
+  "timestamp_utc": "2026-01-17T22-46-06-513Z",
+  "checks": {
+    "required_files_present": true,
+    "missing_files": [],
+    "license_apache_2_0_detected": true
+  },
+  "artifacts": {
+    "required_files": [
+      {
+        "path": "LICENSE",
+        "exists": true,
+        "sha256": "93dd331288241a2f60e1ae354af7bfc4fe3807e7eb9543b31767e99586536fd4"
+      },
+      {
+        "path": "README.md",
+        "exists": true,
+        "sha256": "b164acd298ccca2ea8fc3f135a647a60ca3b24af69abcda85bf843f21322d538"
+      },
+      {
+        "path": "GOVERNANCE.md",
+        "exists": true,
+        "sha256": "e3c14788a40ff8b6820b1373a196eee393b5dcb70e77d3dd050dd8460cd165d8"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "exists": true,
+        "sha256": "a1c53f72bd5cf78c97b44dfb41ca01dcfc85851a88607a081571784e7d25146e"
+      }
+    ]
+  },
+  "outcome": {
+    "pass": true
+  }
+}
